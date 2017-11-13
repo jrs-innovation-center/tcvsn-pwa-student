@@ -2,6 +2,11 @@
 
 As a [role], I can [feature] so that [reason].
 
+## Problem Statement
+
+
+
+
 ## Home
 
 As a veteran, I desire a a menu of options so that I can easily find the type of resource I am looking for. When I select "resources" from the menu, I wish to be taken to a listing of resources.  When I select "categories", I wish to view the various categories of resources.  When I select "Search", I want the ability to search for resources.  
@@ -47,7 +52,6 @@ As a veteran, I want the ability to filter the most popular resources.  Show me 
 
 In addition to resource categories, add a top 10 filter.  
 
-
 ## Reset Filter Resources
 
 As a veteran, I want the ability to reset the filter and display all the resources so that I can see all the resources.
@@ -55,6 +59,8 @@ As a veteran, I want the ability to reset the filter and display all the resourc
 ## Call Resources
 
 As a veteran, when I am on the Resource page, I want the ability to call the primary phone number by clicking a button.  When I am viewing a list of resources, I want a "Call" menu option from a popup menu.  I need to talk to a real person in order to schedule an appointment, ask a question not covered by a FAQ (**View Resource FAQ**).  Selecting the option to cal will cause my mobile device to call the resource.  
+
+---
 
 ## Visit Resource Website
 
