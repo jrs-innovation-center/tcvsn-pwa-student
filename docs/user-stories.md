@@ -34,3 +34,40 @@ As a veteran, I want the ability to view a single resource so that I can view al
 - primary phone number
 - short description
 - purpose
+
+## Filter Resources By Category
+
+As a veteran, I want the ability to filter the resources so I can better locate the resources I need.  I want the ability to filter by:
+
+- resource categories
+
+## Filter Top 10 Resources
+
+As a veteran, I want the ability to filter the most popular resources.  Show me the top 10 resources by popularity.
+
+In addition to resource categories, add a top 10 filter.  
+
+
+## Reset Filter Resources
+
+As a veteran, I want the ability to reset the filter and display all the resources so that I can see all the resources.
+
+## Call Resources
+
+As a veteran, when I am on the Resource page, I want the ability to call the primary phone number by clicking a button.  When I am viewing a list of resources, I want a "Call" menu option from a popup menu.  I need to talk to a real person in order to schedule an appointment, ask a question not covered by a FAQ (**View Resource FAQ**).  Selecting the option to cal will cause my mobile device to call the resource.  
+
+## Visit Resource Website
+
+As a veteran, when I am on the Resource page, I want the ability to view the resource's web page so that I can find additional info about the resource.  Clicking the website button or popup menu item will navigate the mobile device to the appropriate website.  
+
+## View FAQ
+
+## Share Resource
+
+## Toggle Resource Details
+
+As a veteran, when I am on the Resource View page, I want the ability to select a toggle switch so that I can view additional details about the resource, such as:
+
+  - purpose
+  - addresses
+  - contacts
